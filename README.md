@@ -6,10 +6,10 @@ TEAM ID: PNT2022TMID28787
 Team leader  : Jenna Jodly S
 
 
-Team leader 1: Nivetha E
+Team member 1: Nivetha E
 
 
-Team leader 2: Kalaivani V
+Team member 2: Kalaivani V
 
 
-Team leader 3: Kaviya R
+Team member 3: Kaviya R
